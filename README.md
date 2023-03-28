@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Airdrop Hunter
 
 ## Technology Stack & Tools
@@ -56,3 +57,6 @@ Here you can add an environment variable, you'll need to add 9 variables:
 
 ### Note
 If you've set the environment variables after deployment has finished you may want to redeploy. Under the **Deploys** tab, you'll see a list of previous deploys done, there should be a drop down titled **Trigger deploy**. Click on the dropdown, and select the **Clear cache and deploy site** to redeploy the site.
+=======
+# airdrop-bot
+>>>>>>> main
